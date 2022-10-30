@@ -1,0 +1,6 @@
+{
+  "Error": "#/components/schemas/Error",
+  "User": "#/components/schemas/User",
+  "UserRegister": "#/components/schemas/UserRegister",
+  "UserStatus": "#/components/schemas/UserStatus"
+}

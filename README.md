@@ -1,6 +1,8 @@
 # ice-openapi-node
 
-Minimalist OpenAPI spec-powered REST API written in NodeJS
+A minimalist NodeJS REST API powered by an OpenAPI spec
+
+See our [blog post](http://u.icepanel.io/8aff2d69) about this repository.
 
 ## Getting started
 
@@ -21,7 +23,7 @@ yarn --cwd packages/api-client gen
 3. Boot up the api
 
 ```bash
-yarn --cwd  packages/api dev
+yarn --cwd packages/api dev
 ```
 
 4. Test requests on the api
